@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ingStudiosOfficial
+- 👀 I’m interested in web development, developing Chrome Extensions
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: pluscompanyhqdept@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like JavaScript, Python sucks cuz its indentation based, and Lua's just a MESS
