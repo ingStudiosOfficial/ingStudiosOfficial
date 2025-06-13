@@ -5,7 +5,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [YouTube](https://youtube.com/
 I mainly develop **Chrome Extensions** and websites.
 
 ## What I'm working on
-I'm working on an Extension called [**InfiniteCopy**](https://github.com/org/ing-Studios-Web-Labs/infinitecopy). I'm also working on a site called **SchoolWorky**, but that's currently *TOP SECRET*!
+I'm working on an Extension called [**InfiniteCopy**](https://github.com/ing-Studios-Web-Labs/infinitecopy). I'm also working on a site called **SchoolWorky**, but that's currently *TOP SECRET*!
 
 ## What I've completed
 I've completed **WeatherGo**, whcih is a terrible product and you should not use it.
