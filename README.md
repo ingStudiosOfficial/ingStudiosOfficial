@@ -1,5 +1,5 @@
 # About
-Hi, I'm Ethan and I started (ing) Studios. I make [YouTube](https://youtube.com/@ai-turtle) videos. I also programme so as a result I never touch grass. My favourite language is **JavaScript** cuz it makes sense and everything, like look at those **BEAUTIFUL** curly **{brackets}**, and also cuz its not **indentation based**. I don't like **Lua**, cuz it's 1 based indexing. Python's mid.
+Hi, I'm Ethan and I started (ing) Studios. I make [YouTube](https://youtube.com/@ai-turtle) videos. I also programme so as a result I never touch grass. My favourite language is **JavaScript** cuz it makes sense and everything, like look at those **BEAUTIFUL** curly **{brackets}**, and also cuz its not **indentation based**. I don't like **Lua**, cuz it's 1 based indexing. Python's mid. Oh yeah, I do **Java** and **Kotlin** too. But **PLEASE** why is Java statically typed! That's such a pain
 
 # What I develop
 I mainly develop **Chrome Extensions** and websites.
