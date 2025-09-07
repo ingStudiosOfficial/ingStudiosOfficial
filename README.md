@@ -11,6 +11,6 @@ Hi, I'm Ethan and I started (ing) Studios. I make [YouTube](https://youtube.com/
 I'm working on an Extension called [**LauncherTab**](https://github.com/ing-Studios-Web-Labs/launchertab).
 
 ## What I've completed
-I've completed **InfiniteCopy** which is now available on the [**Chrome Web Store**](https://chromewebstore.google.com/detail/infinitecopy/pdpmaoljompdbigcclpkkhjoiompjpkc)
+I've completed **InfiniteCopy** which is now available on the [**Chrome Web Store**](https://chromewebstore.google.com/detail/infinitecopy/pdpmaoljompdbigcclpkkhjoiompjpkc)!
 
 # Thanks for all your support :p
