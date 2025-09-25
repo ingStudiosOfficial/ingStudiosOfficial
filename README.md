@@ -4,7 +4,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
 # What I have made so far
-1. [**InfiniteCopy**](https://github.com/ing-Studios-Web-Labs/infinitecopy)
+1. [**RugplayLite**](https://github.com/ingStudiosOfficial/rugplaylite)
 2. [**LauncherTab**](https://github.com/ing-Studios-Web-Labs/launchertab)
 3. [**Terminal Task Manager**](https://github.com/ingStudiosOfficial/terminaltaskmanager)
 4. More of my published projects below in my collection of repos!
