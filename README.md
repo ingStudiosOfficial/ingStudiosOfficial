@@ -3,7 +3,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
-**Check out my personal portfolio ➡️ [https://leethana-dev.onrender.com](https://leethana-dev.onrender.com)**
+**Check out my portfolio ➡️ [https://leethana-dev.onrender.com](https://leethana-dev.onrender.com)**
 
 # What I have made so far
 1. [**RugplayLite**](https://github.com/ingStudiosOfficial/rugplaylite)
