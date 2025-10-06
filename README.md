@@ -3,6 +3,8 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
+
 **Check out my portfolio ➡️ [https://leethana-dev.onrender.com](https://leethana-dev.onrender.com)**
 
 # What I have made so far
