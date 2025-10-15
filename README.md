@@ -8,9 +8,9 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 **Check out my portfolio ➡️ [https://leethana-dev.onrender.com](https://leethana-dev.onrender.com)**
 
 # What I have made so far
-1. [**RugplayLite**](https://github.com/ingStudiosOfficial/rugplaylite)
+1. [**RugplayLite**](https://github.com/ing-Studios-Web-Labs/rugplaylite)
 2. [**LauncherTab**](https://github.com/ing-Studios-Web-Labs/launchertab)
-3. [**Terminal Task Manager**](https://github.com/ingStudiosOfficial/terminaltaskmanager)
+3. [**Vyntr for Desktop**](https://github.com/ingStudiosOfficial/vyntrdesktop)
 4. More of my published projects below in my collection of repos!
 
 ## What I'm working on
