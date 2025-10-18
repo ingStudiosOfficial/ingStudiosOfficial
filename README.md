@@ -5,7 +5,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1128648335096549487)](https://discord.com/users/1128648335096549487)
+[![Discord Presence](https://lanyard.cnrad.dev/api/)](https://discord.com/users/1128648335096549487)
 
 **Check out my portfolio ➡️ [https://leethana-dev.onrender.com](https://leethana-dev.onrender.com)**
 
