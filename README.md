@@ -3,7 +3,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingStudiosOfficial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingStudiosOfficial&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1128648335096549487)](https://discord.com/users/1128648335096549487)
 
