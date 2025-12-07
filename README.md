@@ -3,7 +3,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 
 ![GitHub Card](https://githubcard.com/ingstudiosofficial.svg)
 
-![Top Languages](https://githubcard.com/ingstudiosofficial.svg?d=6nOHtItE)
+![Top Languages](https://githubcard.com/ingstudiosofficial.svg?d=5rYLZSFm)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1128648335096549487)](https://discord.com/users/1128648335096549487)
 
