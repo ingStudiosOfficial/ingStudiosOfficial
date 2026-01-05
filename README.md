@@ -18,6 +18,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 ## What I'm working on
 I'm working on an Extension called [**LauncherTab**](https://github.com/ing-Studios-Web-Labs/launchertab). Also just mixing some other stuff up, such as [**Cordfriend AI**](https://github.com/ingStudiosOfficial/cordfriendai).
 
-![My GitHub Game](ingStudiosOfficial-gh-space-shooter.gif)
-
 # Thanks for all your support :p
+
+Cool game
+![My GitHub Game](ingStudiosOfficial-gh-space-shooter.gif)
