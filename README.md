@@ -20,5 +20,6 @@ I'm working on an Extension called [**LauncherTab**](https://github.com/ing-Stud
 
 # Thanks for all your support :p
 
-Cool game
+[Cool game](https://github.com/czl9707/gh-space-shooter)
+
 ![My GitHub Game](ingStudiosOfficial-gh-space-shooter.gif)
