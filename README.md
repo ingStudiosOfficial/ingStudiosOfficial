@@ -8,6 +8,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 [![Discord Presence](https://lanyard.cnrad.dev/api/1128648335096549487)](https://discord.com/users/1128648335096549487)
 
 **Check out my portfolio ➡️ [https://leethana.is-a.dev](https://leethana.is-a.dev)**
+
 **Other portfolio (OS themed) ➡️ [https://leethana.ingstudios.dev](https://leethana.ingstudios.dev)**
 
 ## What I have made so far
