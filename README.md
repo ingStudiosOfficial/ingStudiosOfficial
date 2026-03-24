@@ -1,5 +1,6 @@
 # HEYYY It's me Ethan...
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&duration=4998&pause=1000&color=0B22BB&width=435&lines=random+web+developer+from+singapore)](https://git.io/typing-svg)
+
 Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.com/@ai-turtle) videos. I also programme stuff so as a result I never touch grass. Just a web developer? Maybe? I also make CLIs such as my [**Terminal Task Manager**](https://github.com/ingStudiosOfficial/terminaltaskmanager). I also do some Python stuff, Jupyter notebooks. I also developed some Chrome Extensions such as [**InfiniteCopy**](https://github.com/ing-Studios-Web-Labs/infinitecopy) and [**Calculite**](https://github.com/ing-StudiosOfficial/calculite). All my web projects (my favourite stuff to do) can be found in the collection of repos. Thanks for reading, open to dev requests and happy to contribute, just email me at [**contact@ingstudios.dev**](mailto:contact@ingstudios.dev?subject=Developer%20Request).
 
 ![GitHub Card](https://githubcard.com/ingstudiosofficial.svg?d=dufd2M8a)
