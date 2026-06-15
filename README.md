@@ -24,8 +24,6 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 4. More of my published projects below in my collection of repos!
 
 ## What I'm working on
-I'm working on a Java based browser called [**Turtlebrowse**](https://github.com/ingStudiosOfficial/turtlebrowse). Also playing around with web tech with projects such as [**leethanaOS**](https://github.com/ingStudiosOfficial/leethanaos).
+I'm working on an agentic Linux Distro called [**TurtLinux**](https://github.com/ingStudiosOfficial/turtlinux). Also playing around with web tech with projects such as [**Materialvect**](https://github.com/ingStudiosOfficial/materialvect).
 
 # Thanks for all your support :p
-
-<marquee direction="left" scrollamount="10" behavior="alternate">This is a deprecated HTML element</marquee>
