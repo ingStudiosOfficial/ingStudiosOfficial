@@ -9,7 +9,7 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 * Video collaborations - [**email**](mailto:contact@ingstudios.dev?subject=Video%20Collaboration)
 * General queries - [**email**](mailto:contact@ingstudios.dev)
 
-![GitHub Card](https://githubcard.com/ingstudiosofficial.svg?d=dufd2M8a)
+[![ingStudiosOfficial's GitYear](https://www.gityear.com/api/card/ingStudiosOfficial?theme=yellowPine)](https://www.gityear.com/ingStudiosOfficial)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1128648335096549487)](https://discord.com/users/1128648335096549487)
 
