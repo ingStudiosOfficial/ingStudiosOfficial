@@ -24,6 +24,6 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 4. More of my published projects below in my collection of repos!
 
 ## What I'm working on
-I'm working on an agentic Linux Distro called [**TurtLinux**](https://github.com/ingStudiosOfficial/turtlinux). Also playing around with web tech with projects such as [**Materialvect**](https://github.com/ingStudiosOfficial/materialvect).
+I'm working on an agentic Linux Distro called [**TurtLinux**](https://github.com/ingStudiosOfficial/turtlinux). And of course I'm still maintaining [**Turtlebrowse**](https://github.com/ingStudiosOfficial/turtlebrowse).
 
 # Thanks for all your support :p
