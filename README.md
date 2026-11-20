@@ -1,7 +1,7 @@
 # HEYYY It's me Ethan...
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&duration=4998&pause=1000&color=0B22BB&width=435&lines=random+web+developer+from+singapore)](https://git.io/typing-svg)
 
-Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.com/@ai-turtle) videos. I also programme stuff so as a result I never touch grass. Not just a web devloper. I also make other programs such as my [**agentic browser**](https://github.com/ingStudiosOfficial/turtlebrowse). I also developed some Chrome Extensions such as [**InfiniteCopy**](https://github.com/ing-Studios-Web-Labs/infinitecopy) and [**Calculite**](https://github.com/ing-StudiosOfficial/calculite). All my projects can be found in the collection of repos.
+Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.com/@ai-turtle) videos. I also programme stuff so as a result I never touch grass. Not just a web devloper. I also make other programs such as my [**agentic browser**](https://github.com/ingStudiosOfficial/turtlebrowse). I also developed some Chrome Extensions such as [**Fokuser**](https://github.com/ingStudiosOfficial/fokuser) and [**Calculite**](https://github.com/ing-StudiosOfficial/calculite). All my projects can be found in the collection of repos.
 
 ## Collaborate with me
 
