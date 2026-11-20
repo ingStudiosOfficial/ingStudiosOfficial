@@ -18,12 +18,12 @@ Hi, I'm Ethan and I started (ing) Studios. I make [**YouTube**](https://youtube.
 **Other portfolio (OS themed) ➡️ [https://leethana.ingstudios.dev](https://leethana.ingstudios.dev)**
 
 ## What I have made so far
-1. [**Examduler**](https://github.com/ingStudiosOfficial/examduler)
-2. [**Calculite**](https://github.com/ingStudiosOfficial/calculite)
-3. [**Cordfriend AI**](https://github.com/ingStudiosOfficial/cordfriendai)
+1. [**Turtlebrowse**](https://github.com/ingStudiosOfficial/turtlebrowse)
+2. [**transitsg**](https://github.com/ingStudiosOfficial/transitsg)
+3. [**Strontium Linux**](https://github.com/strontium-linux)
 4. More of my published projects below in my collection of repos!
 
 ## What I'm working on
-I'm working on an agentic Linux Distro called [**TurtLinux**](https://github.com/ingStudiosOfficial/turtlinux). And of course I'm still maintaining [**Turtlebrowse**](https://github.com/ingStudiosOfficial/turtlebrowse).
+I'm working on a Linux Distro called [**Strontium Linux**](https://github.com/strontium-linux). And of course I'm still maintaining [**Turtlebrowse**](https://github.com/ingStudiosOfficial/turtlebrowse).
 
 # Thanks for all your support :p
